@@ -1,0 +1,9 @@
+# OSX
+.DS_STORE
+
+# Misc
+.idea/
+/dist
+
+csi-upcloud-plugin
+csi-upcloud-driver
